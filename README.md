@@ -1,7 +1,13 @@
-# 使用步骤
+# Microsoft 365 开发入门指南（第二版）
+> 陈 希章 | 2022年3月
 
-1. 修改 [package.json](docs/package.json) 中的相关信息
-1. 修改 build.yml 中的域名，提交更改后等待 Action第一次运行成功
-1. 修改 pages 的设置，指向gh_pages 这个分支，配置域名
-1. 替换 favicon.ico文件
-1. 修改engine.js 中的google analytics的id
+## 课程概述
+
+这是在线视频课程《Microsoft 365开发入门指南》的配套讲义和范例代码。
+
+## 课程服务
+
+本课程的问答和勘误，请扫码添加企业微信。陈希章授权委托 `上海强子信息科技有限公司` 提供企业微信侧的支持。
+
+![](docs/images/qrcode.jpg)
+

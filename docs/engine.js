@@ -1,12 +1,12 @@
 //这一段是用来插入google analytics的信息的，注意修改G-开头的编号
 
 const script = `
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9SFKP3FJEJ"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7TCKVSZ0Y6"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-9SFKP3FJEJ');
+  gtag('config', 'G-7TCKVSZ0Y6');
 </script>
 `
 

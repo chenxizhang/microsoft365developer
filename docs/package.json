@@ -17,21 +17,21 @@
   },
   "marp": {
     "author": "陈希章",
-    "description": "",
+    "description": "Microsoft 365 开发入门指南（第二版）",
     "lang": "zh-CN",
     "theme": "default",
-    "keywords": "",
-    "url": ""
+    "keywords": "Microsoft 365,Microsoft Graph,SharePoint Framework,Office add-in",
+    "url": "https://m365dev.xizhang.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenxizhang/inside-microsoft-identity-platform.git"
+    "url": "git+https://github.com/chenxizhang/microsoft365developer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chenxizhang/inside-microsoft-identity-platform/issues"
+    "url": "https://github.com/chenxizhang/microsoft365developer/issues"
   },
-  "homepage": "https://github.com/chenxizhang/inside-microsoft-identity-platform#readme"
+  "homepage": "https://github.com/chenxizhang/microsoft365developer#readme"
 }
