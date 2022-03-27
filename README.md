@@ -9,5 +9,5 @@
 
 本课程的问答和勘误，请扫码添加企业微信。陈希章授权委托 `上海强子信息科技有限公司` 提供企业微信侧的支持。
 
-![](docs/images/qrcode.jpg)
+![](./docs/images/qrcode.jpg)
 
